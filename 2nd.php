@@ -15,7 +15,7 @@ input[type=text], input[type=password] {
 }
 body
 {
-      background-image:url("wsl2.png");
+      background-image:url("wish.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
