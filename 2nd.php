@@ -15,7 +15,7 @@ input[type=text], input[type=password] {
 }
 body
 {
-      background-image:url("wow2.png");
+      background-image:url("2.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
