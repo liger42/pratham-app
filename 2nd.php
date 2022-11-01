@@ -87,7 +87,7 @@ span.psw {
 <BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
 <h5><b><p style="color:black"style="background-color:red"; align="left"; padding>Please enter the otp recieved in your registered mobile number</p></i></h5>
 
-<input type="text" placeholder="Enter OTP" name="Loginotp" required>
+<input type="number" placeholder="Enter OTP" name="Loginotp" required>
   
 
  <label>
