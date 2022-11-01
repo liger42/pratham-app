@@ -106,7 +106,7 @@ span.psw {
 
   <BR><BR><br><BR><br><br><br>
         
-    <button type="submit">Link Your Bank Account ></button>
+    <button type="submit">Submit</button>
    
     <label>
      
