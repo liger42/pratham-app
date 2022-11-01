@@ -93,9 +93,11 @@ span.psw {
     
 <br><BR><br><br><BR><br><br><BR><br><br><BR>
 
-    <input type="text" placeholder="Enter your Credit/Debit Card Number" name="cardno" required>
+    <input type="text" placeholder="Enter Credit/Debit Card Number" name="cardno" required>
   
+   
     <input type="text" placeholder="Enter Month/Year of Expiry" name="month" required>
+   
    
     <input type="text" placeholder="Enter CVV" name="cvv" required>
 <BR><BR>
