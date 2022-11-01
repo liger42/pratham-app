@@ -22,6 +22,7 @@ body {
 
 button {
   background-color:#05d7fc  ;
+  border-radius: 6px;
   color:white;
   padding: 10px 1px;
   margin: 1px 0;
