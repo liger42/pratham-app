@@ -20,6 +20,9 @@ body {
 }
 
 button {
+  font-size: 20px;
+font-weight: bold;
+    display: inline-block;
   background-color:#33ccff ;
    border-radius:6px;
 color: white;
