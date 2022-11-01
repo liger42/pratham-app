@@ -22,11 +22,9 @@ body {
 
 button {
   background-color:#05d7fc  ;
-  border-radius:6px;
-  font-weight: bold;
   color:white;
-  padding: 20px 3px;
-  margin: 2px 0;
+  padding: 10px 1px;
+  margin: 1px 0;
   border: none;
   cursor: pointer;
   width: 50%;
